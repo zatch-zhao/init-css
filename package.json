@@ -1,0 +1,15 @@
+{
+  "name": "zatch77-init-css",
+  "version": "1.0.0",
+  "description": "init css",
+  "main": "init.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "init",
+    "css"
+  ],
+  "author": "zatch",
+  "license": "ISC"
+}
